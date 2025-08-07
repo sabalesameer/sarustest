@@ -6,7 +6,7 @@ import { GiWindSlap } from 'react-icons/gi';
 import { MdCameraAlt } from 'react-icons/md';
 import { LuMapPin } from 'react-icons/lu';
 import { BsClockHistory } from 'react-icons/bs';
-import Torna1 from '../assets/torna1.png'
+import Torna1 from '../assets/Torna1.png'
 import Torna2 from '../assets/close camera.png'
 import Torna3 from '../assets/swapabblebattery.png'
 import Torna4 from '../assets/ppk.png'
